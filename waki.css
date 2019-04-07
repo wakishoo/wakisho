@@ -132,7 +132,7 @@ header{
 	font-family: serif,'Amatic SC', cursive;
 	font-size:26px;
 	padding-top: 80px;
-	margin:0 auto 80px;
+	margin:0 auto 70px;
 	width:90px;
 	border-bottom: 2px dashed;
 }
@@ -182,7 +182,7 @@ header{
 .ikon-box{
 	width:120px;
 	height:120px;
-	margin:50px auto 0;
+	margin:75px auto 0;
 	border-radius: 60px;
 	background-color: white;
 }
